@@ -1,6 +1,17 @@
+/*     
+    display: block; - ustawia na całą linie
+    display: inline; - ustawia jedno po drugim
+    display: inline-block; - ustawia jedno po drugim ale te kture się nie zmieszczą są przesuwane do następnej linji
+    min-width/height: ; - minimalna wysokość/szerokość
+    max-width/height: ; - maxymalna wysokość/szerokość     
+    padding: ;/margin: ; - robi marginesy
+    border-radius: ; - zaokrągla ramkę
+    position: sticky; + top: 0; - elęmęt bedzie jechał za nami podczas scrollowania 
+*/
+
 body {
     background-color: khaki;
-
+  
 }
 
 #mein-header {
