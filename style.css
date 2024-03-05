@@ -1,0 +1,26 @@
+body {
+    background-color: khaki;
+
+}
+
+#mein-header {
+    background-color: aqua;
+    color: chartreuse;
+    font-size: 38px;
+    text-align: center;
+
+}
+
+#style-textu p {
+    color: green;
+    font-size: 20px;
+
+}
+
+#style-textu b, s {
+    background-color: red;
+    font-size: 26px;
+    color: blue;
+
+}
+
